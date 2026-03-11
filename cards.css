@@ -1,0 +1,14 @@
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  width: 300px;
+  font-family:'Montserrat', sans-serif;
+  text-align: flex-start;
+}
+
+.container{
+display:flex;
+gap:30px;
+}
